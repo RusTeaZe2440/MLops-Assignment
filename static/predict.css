@@ -1,0 +1,29 @@
+.heading h1 {
+    font-size:26px; font-weight:700;  letter-spacing:1px; text-transform:uppercase; width:80px; text-align:absolute; margin:auto; white-space:nowrap; padding-bottom:500px;
+  }
+  .heading h1:before {
+      background-color: #c50000;
+      content: '';
+      display: block;
+      height: 3px;
+      width: 75px;
+      margin-bottom: 5px;
+  }
+  .heading h1:after {
+      background-color: #c50000;
+      content: '';
+      display: block;
+    position:absolute; right:0; bottom:0;
+      height: 3px;
+      width: 75px;
+      margin-bottom: 0.25em;
+  }
+  body {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #d1c8d3, #735080); /*fiolet*/
+  }
+  

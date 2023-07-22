@@ -1,0 +1,67 @@
+
+/* CSS */
+.buttons1 {
+  background-color: #83189e;
+  border-radius: 100px;
+  box-shadow: rgba(3, 21, 10, 0.904) 0 -25px 18px -14px inset,rgba(9, 3, 11, 0.15) 0 1px 2px,#0e021726 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: rgb(76, 9, 98);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 20px 20px;
+  text-align: left;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 22px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.buttons1:hover {
+  box-shadow: rgba(24, 158, 192, 0.35) 0 -25px 18px -14px inset,rgba(31, 160, 196, 0.25) 0 1px 2px,rgba(35, 145, 192, 0.25) 0 2px 4px,rgba(21, 115, 188, 0.25) 0 4px 8px,rgba(20, 124, 172, 0.25) 0 8px 16px,rgba(14, 131, 185, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+.buttons2 {
+    background-color: #83189e;
+    border-radius: 100px;
+    box-shadow: rgba(3, 21, 10, 0.904) 0 -25px 18px -14px inset,rgba(9, 3, 11, 0.15) 0 1px 2px,#0e021726 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+    color: rgb(76, 9, 98);
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    size: 30px;
+    font-size: 32px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .buttons2:hover {
+    box-shadow: rgba(37, 195, 9, 0.35) 0 -25px 18px -14px inset,rgba(37, 195, 9, 0.35) 0 1px 2px,rgba(37, 195, 9, 0.35) 0 2px 4px,rgba(37, 195, 9, 0.35) 0 4px 8px,rgba(37, 195, 9, 0.35) 0 8px 16px,rgba(37, 195, 9, 0.35) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+  }
+
+.buttons1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    right:60%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+.buttons2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    right: 40%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }  

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ 
+<html lang="en">
+<head>
+    <link rel="Stylesheet", href="./static/style.css">
+    <link rel="Stylesheet", href="./static/heading.css">
+    <title>X-ray detection system</title>
+</head>
+<body>
+  <div class="three">
+    <h1>X-ray Detection System</h1>
+  </div>
+  
+ 
+	<div class="container">
+
+    <form action="/predict" method="post" enctype="multipart/form-data">
+      <div class="btn"><label for="imageInput">Upload Image</label></div>
+      <input type="file" id="imageInput" name="image" accept="image/*" hidden>      
+      <br><br>
+      <div class="btn"><input type="submit" value="Predict"></div>
+    </form>
+    
+	</div>		
+</body>
+
+</html> 
