@@ -1,6 +1,6 @@
 numpy
 flask
 keras
+opencv-python>=4.5.5
+keras_preprocessing
 tensorflow
-os
-cv2
