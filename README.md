@@ -44,4 +44,4 @@ Push to DockerHub
 ```bash
   docker push <username>/mlops:tag
 ```
-![Alt text](Images/Push.png)
+![Alt text](Push.png)
