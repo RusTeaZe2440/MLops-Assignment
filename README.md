@@ -13,7 +13,7 @@ Install Docker Desktop from https://www.docker.com/
 2. click on new file
 3. Name that file as Dockerfile
 4. In that file write thing mentioned below
-
+![Alt text](Dockerfile.png)
     
 ## Docker Image
  - To build Docker image open terminal from the project directory where your Dockerfile is saved.
@@ -31,7 +31,7 @@ Install Docker Desktop from https://www.docker.com/
 ```bash
   docker images
 ```
-
+![Alt text](Image.png)
 ## Push to Docker Hub
 
 Tag your docker image
@@ -44,4 +44,4 @@ Push to DockerHub
 ```bash
   docker push <username>/mlops:tag
 ```
-
+![Alt text](Images/Push.png)
