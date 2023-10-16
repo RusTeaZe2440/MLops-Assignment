@@ -39,7 +39,7 @@ A convolutional neural network (CNN or convnet) is a subset of machine learning.
 ## Working with CNN
 ![Alt text](Images/working.jpg)
 ## Detection System
-![Alt text](Images/Diagnosis system.jpg)
+![Alt text](https://github.com/RusTeaZe2440/MLops-Assignment/blob/master/Images/Diagnosis%20system.jpg)
 ## Flask API
 Flask is a micro web framework for Python that is designed to be lightweight, easy to use, and flexible. It is often used for developing web applications, APIs, and small to medium-sized web services. Flask provides the essential tools and libraries for building web applications.
 
