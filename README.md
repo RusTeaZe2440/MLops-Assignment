@@ -37,7 +37,7 @@ A convolutional neural network (CNN or convnet) is a subset of machine learning.
 
 ![Alt text](Images/CNN.jpg)
 ## Working with CNN
-![Alt text](Images/working.jpg)
+![Alt text](Images/woking.jpg)
 ## Detection System
 ![Alt text](https://github.com/RusTeaZe2440/MLops-Assignment/blob/master/Images/Diagnosis%20system.jpg)
 ## Flask API
