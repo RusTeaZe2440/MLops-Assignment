@@ -35,4 +35,4 @@ Install Dependencies
 ## Convolutional Neural Network
 A convolutional neural network (CNN or convnet) is a subset of machine learning. It is one of the various types of artificial neural networks which are used for different applications and data types. A CNN is a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data.
 
-![Alt text]("C:\Users\BHAVESH\OneDrive\Pictures\Images\CNN.jpg")
+![Alt text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z7hd8FZeI_eodazwIapvAw.png)
